@@ -4,7 +4,7 @@
 
 📍 Ростов-на-Дону  
 ✉️ [roma.esenkov@yandex.ru](mailto:roma.esenkov@yandex.ru)  
-Telegram : @romanesenk
+  Telegram : @romanesenk
 🔗 [LeetCode](https://leetcode.com/u/Resenkov/) | [GitHub](https://github.com/Resenkov)
 
 ---
